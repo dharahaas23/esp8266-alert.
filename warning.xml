@@ -1,16 +1,13 @@
-
-<?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Say language="en-US">
     Warning! Warning!
-    Motion has been detected by your ESP8266
-    security system.
+    Motion has been detected by your ESP8266 security system.
     Please check the area immediately.
   </Say>
   <Pause length="2"/>
   <Say language="en-US">
     I repeat. Motion has been detected.
-    Please check the area immediately.
+    Please check your security system.
   </Say>
   <Hangup/>
 </Response>
